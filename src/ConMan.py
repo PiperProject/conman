@@ -59,10 +59,6 @@ class ConMan( object ) :
 
     logging.debug( "  ...instantiated ConMan instance." )
 
-
-  #  
-
-
 #########################
 #  THREAD OF EXECUTION  #
 #########################
